@@ -8,13 +8,10 @@ public class Main {
         System.out.println("repasando comandos");
         System.out.println("repasando comandos");
 
-        System.out.println("repasando comandos");
-        System.out.println("repasando comandos");
-        System.out.println("repasando comandos");
-        System.out.println("repasando comandos");
-        System.out.println("repasando comandos");
-        System.out.println("repasando comandos");
-        System.out.println("repasando comandos");
+        System.out.println("suma");
+        System.out.println("resta");
+        System.out.println("divicion");
+        System.out.println("multi");
 
 
 
