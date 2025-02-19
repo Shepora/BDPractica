@@ -13,6 +13,14 @@ public class Main {
         System.out.println("divicion");
         System.out.println("multi");
 
+        System.out.println("DDL");
+        System.out.println("DMl");
+        System.out.println("TSL");
+        System.out.println("COMANDOS BASES DE DATOS");
+        System.out.println("COMANDOS BASES DE DATOS1");
+        System.out.println("COMANDOS BASES DE DATOS2");
+
+
 
 
 
