@@ -6,6 +6,16 @@ public class Main {
         System.out.println("Hola Clase");
         System.out.println("ESTAMOS APRENDIENDO COMANDOS GIT");
         System.out.println("repasando comandos");
+        System.out.println("repasando comandos");
+
+        System.out.println("repasando comandos");
+        System.out.println("repasando comandos");
+        System.out.println("repasando comandos");
+        System.out.println("repasando comandos");
+        System.out.println("repasando comandos");
+        System.out.println("repasando comandos");
+        System.out.println("repasando comandos");
+
 
 
 
